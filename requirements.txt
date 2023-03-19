@@ -1,2 +1,2 @@
-streamlit==1.5.0
-streamlit-ifc==0.1.3
+streamlit
+streamlit-ifc
